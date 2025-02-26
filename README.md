@@ -28,7 +28,7 @@ Ensure you have Python 3.x installed, then install the required library:
 Clone the repository:
 
 https://github.com/AbhishekSinghaniya2002/-Secure-Data-Hiding-In-Images-Using-Steganography
-![image](https://github.com/user-attachments/assets/72e02c6d-a31a-4863-abca-13bea76bd84b)
+
 
 # ⚡ Usage
 
@@ -58,10 +58,6 @@ https://github.com/AbhishekSinghaniya2002/-Secure-Data-Hiding-In-Images-Using-St
    - The output image must be saved in PNG format to preserve the hidden data.
    - If the passcode is incorrect, the message cannot be retrieved.
    - Large messages may not fit in small images — use a high-resolution image.
-
-## Screenshot
-
-![Screenshot 2025-02-25 171230](https://github.com/user-attachments/assets/df20b3bc-d503-4f8c-b6eb-5d075a3769f6)
 
 
 ## 📜 License
